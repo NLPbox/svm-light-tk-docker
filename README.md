@@ -29,7 +29,7 @@ Number of examples: 113, linear space size: 21479
 
 estimating ...
 Setting default regularization parameter C=0.1330
-Optimizing...................................................................done. (68 iterations)
+Optimizing..........................................done. (68 iterations)
 Optimization finished (14 misclassified, maxdiff=0.00047).
 Runtime in cpu-seconds: 0.00
 Number of SV: 78 (including 35 at upper bound)
