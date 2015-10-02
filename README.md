@@ -3,8 +3,9 @@ svm-light-tk-docker
 
 [SVM-LIGHT-TK](http://disi.unitn.it/moschitti/Tree-Kernel.htm) is a library
 providing implementations of tree kernels (SubSet Tree kernel and Subtree kernel)
-for machine learning. This repository allows you to install the software in a
-[docker](https://www.docker.com/) container with one simple command.
+for machine learning within SVM-light. 
+This repository allows you to install the software in a [docker](https://www.docker.com/)
+container with one simple command.
 
 Installation
 ============
